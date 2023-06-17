@@ -11,7 +11,7 @@
 
 
 
-docker-compose.yml: (Sample)
+docker-compose.yml:
 
 ```yml
 version: '3.3'
